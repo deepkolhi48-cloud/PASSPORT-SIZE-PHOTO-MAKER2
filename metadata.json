@@ -1,0 +1,5 @@
+{
+  "name": "AI Passport Photo Generator",
+  "description": "An AI-powered application to generate professional, ultra-realistic passport photos from an uploaded image. It uses generative AI to adjust clothing, background, and expression while preserving facial identity, and includes a validation step to check against standard passport photo requirements.",
+  "requestFramePermissions": []
+}
